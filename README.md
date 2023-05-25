@@ -18,8 +18,6 @@
   
 [![SnowFox-95's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SnowFox-95)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Alexey Bespyatykh lang_stats](https://snowfox-95.github.io/github-stats-transparent/generated/languages.svg)
-![Alexey Bespyatykh repo_stats](https://snowfox-95.github.io/github-stats-transparent/generated/overview.svg)
 
 
 
